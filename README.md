@@ -1,0 +1,1 @@
+# 5_2_2_Random_Shop_Enum
